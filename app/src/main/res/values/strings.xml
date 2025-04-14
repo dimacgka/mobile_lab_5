@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">лаба 5</string>
+    <string name="bob_notification">Cool Story Bob Notifications</string>
+    <string name="download_progress">Прогресс: %1$d%</string>
+    <string name="file_dl_serv">Загрузка файла.</string>
+    <string name="dl_serv_init">Загрузка файла.</string>
+    <string name="prog_dl_serv_init_0">Прогресс: 0%</string>
+    <string name="dl_comp_serv">Загрузка завершена.</string>
+    <string name="name_dl_serv">Сервис загрузки.</string>
+    <string name="progress_with_prc_in_ser">Прогресс:</string>
+
+</resources>
